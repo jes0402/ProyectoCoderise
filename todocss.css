@@ -3,7 +3,7 @@
     .vertical-menu {
       width: 700px;
     }
-    
+
     .vertical-menu a {
       background-color: #328BF6;
       color: black;
@@ -11,16 +11,16 @@
       padding: 12px;
       text-decoration: none;
     }
-    
+
     .vertical-menu a:hover {
       background-color: #ccc;
     }
-    
+
     .vertical-menu a.active {
       background-color: #32AFF6;
       color: white;
     }
-    
+
     body{
         display: flex;
         background-color: #9FF1F6;
@@ -31,7 +31,7 @@
     }
 
     .galeria{
-        
+
         display: flex;
         flex-wrap: wrap;
         flex-direction: row;
@@ -72,14 +72,14 @@
     .img-center{
         display: flex;
         justify-content: center;
-        
+
     }
     h1,h2,h3,h4{
         font-family: 'Abril Fatface', cursive;
-      
+
     }
     p{
-     
+
         font-family: 'Open Sans Condensed', sans-serif;
         font-size: 18px;
 
@@ -99,11 +99,9 @@
     aside{
         font-family: 'Roboto', sans-serif;
     }
-    
+
     img{
         border-radius: 30%;
         border: solid 3px black;
 
     }
-    
-   
